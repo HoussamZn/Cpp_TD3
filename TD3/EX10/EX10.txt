@@ -1,0 +1,4 @@
+Le programme a un problem au niveau de syntaxe : il manque une accolade fermée "}" 
+sinon le programme affiche :
+    dans f : 999
+    suite main

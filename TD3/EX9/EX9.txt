@@ -1,0 +1,8 @@
+1 - le programme affiche :
+
+    Coordonnees : < A
+
+2 - on doit modifier "char" par "int" , "float"... :
+
+        point <float> p (60, 65) ; 
+        p.affiche () ;
